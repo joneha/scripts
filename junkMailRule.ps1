@@ -1,6 +1,6 @@
 # ///////////////////////////////////////////////////////
 # Logging in to client 365 tenant and modify junk-config to (hopefully) disable spam-filtering
-# Last revised on 26/11/2020.
+# Last revised on 04/12/2020.
 # ///////////////////////////////////////////////////////
 
 # Connect to client tenant
